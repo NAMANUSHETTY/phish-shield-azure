@@ -34,4 +34,7 @@ Azure SQL Database / Azure Blockchain (scam reporting)
 Azure AD B2C & Entra ID (secure authentication)
 Azure Key Vault (API keys & secrets)
 
+WorkFlow Diagram
+
+
 
