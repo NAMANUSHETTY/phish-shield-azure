@@ -36,5 +36,5 @@ Azure Key Vault (API keys & secrets)
 
 WorkFlow Diagram
 
-
+![Workflow Diagram](https://github.com/NAMANUSHETTY/phish-shield-azure/blob/main/Phish%20Shield%20Fraud%20Detection%20Flowchart.png?raw=true)
 
